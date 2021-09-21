@@ -1,6 +1,6 @@
 const prompt = require("prompt-sync")();
 
-const weight = prompt("How much do you weight?: ");
+const weight = prompt(" How much do you weight?: ");
 const planet = prompt(
 	"What planet do you want to fight on: "
 );
